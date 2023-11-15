@@ -1,0 +1,5 @@
+{
+    "packages": ["frontend", "solidity", "assets"],
+    "version": "0.0.0",
+    "npmClient": "yarn"
+}

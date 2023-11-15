@@ -1,0 +1,17 @@
+{
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true
+    },
+    "eslint.workingDirectories": [
+      {
+        "directory": "frontend",
+        "changeProcessCWD": true
+      },
+      {
+        "directory": "solidity",
+        "changeProcessCWD": true
+      }
+    ],
+    "solidity.packageDefaultDependenciesContractsDirectory": "",
+    "solidity.packageDefaultDependenciesDirectory": "solidity/node_modules"
+  }
