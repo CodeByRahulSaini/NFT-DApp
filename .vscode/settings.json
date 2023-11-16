@@ -12,6 +12,11 @@
         "changeProcessCWD": true
       }
     ],
-    "solidity.packageDefaultDependenciesContractsDirectory": "",
-    "solidity.packageDefaultDependenciesDirectory": "solidity/node_modules"
+    // "solidity.packageDefaultDependenciesContractsDirectory": "",
+    "solidity.packageDefaultDependenciesDirectory": "solidity/node_modules",
+    "solidity.defaultCompiler": "localNodeModule",
+    "solidity.remappingsUnix": [
+      "@uniswap/=node_modules/@uniswap/",
+      "@openzeppelin/=node_modules/@openzeppelin/"
+    ]
   }
