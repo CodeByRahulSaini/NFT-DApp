@@ -1,14 +1,14 @@
 # NFT-DApp
 
 
-This project is a full-stack application showcasing an NFT (Non-Fungible Token) collection based on Ethereum's smart contract technology. It features two unique "cap" images as NFTs, with their metadata stored and managed within the project. The application's frontend is built with React, providing a user-friendly interface for claiming the NFTs. Additionally, it integrates Web3Auth for wallet creation and management, enhancing the user experience in claiming and handling NFTs.
+This project is about claiming or buying an NFT (Non-Fungible Token). It features two unique "cap" images as NFTs, with their metadata stored and managed within the project. The application's frontend is built with React, providing a user-friendly interface for claiming the NFTs. Additionally, it integrates Web3Auth for wallet creation and management, enhancing the user experience in claiming and handling NFTs.
 
 ## Folder Structure
 
 - `assets/`: Contains metadata for the NFTs.
 - `solidity/`: Houses the Solidity smart contracts for the NFTs.
-- `frontend/`: The React-based frontend code for claiming NFTs and interfacing with the smart contracts.
-- `lerna.json`: Configuration file for managing multi-package repositories with Lerna.
+- `frontend/`: The React-based frontend code for claiming NFTs.
+- `lerna.json`: Configuration file for managing mono-repo with Lerna.
 - `tsconfig`: TypeScript configuration file.
 - `prettier files...`: Configuration files for Prettier, a code formatter.
 - `eslint files...`: Contains linter configurations for maintaining code quality.
