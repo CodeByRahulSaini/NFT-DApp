@@ -1,0 +1,8 @@
+{
+  "token_id": 1,
+  "name": "Awesome Cap",
+  "description": "Awesome Cap",
+  "image": "https://cdn-icons-png.flaticon.com/512/2362/2362596.png",
+  "strength": 20,
+  "hosted_url": "https://unpkg.com/nft-assets-123/candle1.json"
+}

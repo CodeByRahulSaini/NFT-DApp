@@ -1,0 +1,22 @@
+header {
+  padding: 1em 0;
+}
+
+.App {
+  padding: 1em;
+}
+.container {
+  display: grid;
+  grid-template-columns: repeat(100px);
+  gap: 1%;
+  grid-template-columns: repeat(4, 24%);
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px #dfdfdf;
+  padding: 10px;
+  border-style: dotted;
+}

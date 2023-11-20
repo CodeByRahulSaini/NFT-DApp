@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "scripts": {
-    "bootstrap": "lerna bootstrap",
+    "bootstrap": "npx lerna bootstrap",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
